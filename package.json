@@ -1,0 +1,9 @@
+{
+  "name": "tauri-drag",
+  "version": "0.0.1",
+  "description": "Tauri drag implementation for HTML Element",
+  "main": "dist/index.js",
+  "repository": "https://github.com/yejimeiming/tauri-drag.git",
+  "author": "单子哥 <asd308487730@gmail.com>",
+  "license": "MIT"
+}
